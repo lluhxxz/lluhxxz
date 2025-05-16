@@ -1,16 +1,14 @@
-## Hi there 👋
+###   Boas vindas ao meu perfil 🐶
 
-<!--
-**lluhxxz/lluhxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é luana francieli bassani
 
-Here are some ideas to get you started:
+  -estou estudando na .[Alura]_(https:\\www.alura.com.br).
+  -estou me desenvolvendo na linguagem javaScript
+  -utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voçe entra em contato comigo por 
+
+  l.bassani@escola.pr.gov.br
+  (https:\\tenor.com
+
+

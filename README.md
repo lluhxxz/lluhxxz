@@ -9,6 +9,7 @@ Meu nome é luana francieli bassani
   ### voçe entra em contato comigo por 
 
   l.bassani@escola.pr.gov.br
-  (https:\\tenor.com
+
+![](https://media.tenor.com/Xblbq1SzufUAAAAj/i-love-you.gif)
 
 
